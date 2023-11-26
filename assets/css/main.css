@@ -2669,7 +2669,7 @@ div#clock {
     font-weight: 500;
   }
   #nav-container {
-    background: #D67BFF;
+    background: transparent;
   }
   .about-content ul li {
     font-size: 17px !important;
